@@ -1,0 +1,3 @@
+/Users/nikita-r13/CLionProjects/op4/cmake-build-debug/CMakeFiles/op4.dir
+/Users/nikita-r13/CLionProjects/op4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikita-r13/CLionProjects/op4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
