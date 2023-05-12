@@ -1,0 +1,6 @@
+# ninja log v5
+0	600	1683896715707843826	CMakeFiles/OP_5.dir/main.cpp.o	caacee35bc388c5d
+8	86	1683896754418785054	CMakeFiles/OP_5.dir/Pair.cpp.o	258a8e5f574ed031
+8	108	1683896754441005333	CMakeFiles/OP_5.dir/QueueExceptions.cpp.o	e4b5d2da3666aec9
+8	334	1683896754667084510	CMakeFiles/OP_5.dir/Queue.cpp.o	477986d75394c731
+7	367	1683896754699614025	CMakeFiles/OP_5.dir/App.cpp.o	783f15f8bc02e8dd
